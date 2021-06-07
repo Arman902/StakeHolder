@@ -6,7 +6,7 @@
 
 /**
  *
- * @author KISO
+ * @author Armand Nziza (217035019)
  */
     import java.io.*;
 import java.util.Calendar;
