@@ -32,7 +32,7 @@ public class MyDB {
         try{
             //connect to the publisher.mdb database
         System.out.println("Creating connection...");
-        String URL = "jdbc:ucanaccess://C:\\Users\\217301827\\Documents\\NetBeansProjects\\Ebenezer_217301827\\publisher.mdb";
+        String URL = "jdbc:ucanaccess://C:\\Users\\217035019\\Documents\\NetBeansProjects\\Armand-217035019\\publisher.mdb";
         conn = DriverManager.getConnection(URL);
         System.out.println("Connection successfull");
         }
